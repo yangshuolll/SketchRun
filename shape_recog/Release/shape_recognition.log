@@ -1,0 +1,79 @@
+﻿  stdafx.cpp
+  BarCodeRecognizer.cpp
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+BarCodeRecognizer.cpp(141): warning C4018: “<”: 有符号/无符号不匹配
+BarCodeRecognizer.cpp(144): warning C4018: “<”: 有符号/无符号不匹配
+BarCodeRecognizer.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+BarCodeRecognizer.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+BarCodeRecognizer.cpp(220): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+BarCodeRecognizer.cpp(226): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+BarCodeRecognizer.cpp(251): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+BarCodeRecognizer.cpp(255): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+BarCodeRecognizer.cpp(256): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+BarCodeRecognizer.cpp(257): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+BarCodeRecognizer.cpp(258): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  ComponentConnector.cpp
+ComponentConnector.cpp(97): warning C4101: “avgObjectWidth”: 未引用的局部变量
+ComponentConnector.cpp(131): warning C4101: “ptrPatchIntensityImg”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “C0”: 未引用的局部变量
+ComponentConnector.cpp(80): warning C4101: “tmp”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “R0”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “yBR”: 未引用的局部变量
+ComponentConnector.cpp(80): warning C4101: “C1t”: 未引用的局部变量
+ComponentConnector.cpp(80): warning C4101: “R1t”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “R1”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “C1”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “xBR”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “yUL”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “objectSize”: 未引用的局部变量
+ComponentConnector.cpp(79): warning C4101: “xUL”: 未引用的局部变量
+ComponentConnector.cpp(80): warning C4101: “R0t”: 未引用的局部变量
+ComponentConnector.cpp(80): warning C4101: “C0t”: 未引用的局部变量
+ComponentConnector.cpp(390): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+ComponentConnector.cpp(391): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  ImageRecognizeManager.cpp
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+ImageRecognizeManager.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+  ScanImgManager.cpp
+ScanImgManager.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+ScanImgManager.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  ShapeRecognizer.cpp
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\RecognizeImageCode\vs2015_sketchtown\opencv_vs2015\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+ShapeRecognizer.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(189): warning C4018: “>”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(251): warning C4018: “<”: 有符号/无符号不匹配
+ShapeRecognizer.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+  shape_recognition.cpp
+  CustomStringHelper.cpp
+utls\CustomStringHelper.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  FileHelper.cpp
+utls\FileHelper.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+utls\FileHelper.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+utls\FileHelper.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+  stringEx.cpp
+utls\stringEx.cpp(154): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  UDPConnection.cpp
+utls\UDPConnection.cpp(48): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
+utls\UDPConnection.cpp(62): warning C4244: “参数”: 从“DWORD”转换到“u_short”，可能丢失数据
+utls\UDPConnection.cpp(63): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  正在生成代码
+  1249 of 1252 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    29 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  shape_recognition.vcxproj -> F:\RecognizeImageCode\sketchTown\SketchTown_finish_12_22_int2_path_int11_copy\shape_recog\Release\shape_recognition.exe
+  shape_recognition.vcxproj -> F:\RecognizeImageCode\sketchTown\SketchTown_finish_12_22_int2_path_int11_copy\shape_recog\Release\shape_recognition.pdb (Full PDB)
